@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d4e35db-6add-451a-9b8f-bae5798f017f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/FilterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selpw/VerifyDescendingSortByPricePWTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/selpw/VerifyDescendingSortByPriceSeleniumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/local.properties.TEMPLATE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NavigateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NavigateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runner/BaseUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/BaseUtils.java" afterDir="false" />
-    </list>
+    <list default="true" id="0d4e35db-6add-451a-9b8f-bae5798f017f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.FirstTest.testSelenium.executor": "Run",
-    "TestNG.NavigateTest.testSelenium.executor": "Run",
-    "TestNG.VerifyDescendingSortByPricePWTest.testDescendingSortByPricePlayWright.executor": "Run",
-    "TestNG.VerifyDescendingSortByPriceSeleniumTest.testDescendingSortByPriceSelenium.executor": "Run",
-    "TestNG.VerifyDescendingSortByPriceTest.executor": "Run",
-    "TestNG.VerifyDescendingSortByPriceTest.testDescendingSortByPricePlayWright.executor": "Run",
-    "TestNG.VerifyDescendingSortByPriceTest.testDescendingSortByPriceSelenium.executor": "Run",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/olgasafronova/IdeaProjects/Luma_Job_Clone/src/test/resources"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.FirstTest.testSelenium.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NavigateTest.testSelenium.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.VerifyDescendingSortByPricePWTest.testDescendingSortByPricePlayWright.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.VerifyDescendingSortByPriceSeleniumTest.testDescendingSortByPriceSelenium.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.VerifyDescendingSortByPriceTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.VerifyDescendingSortByPriceTest.testDescendingSortByPricePlayWright.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.VerifyDescendingSortByPriceTest.testDescendingSortByPriceSelenium.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/olgasafronova/IdeaProjects/Luma_Job_Clone/src/test/resources&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources" />

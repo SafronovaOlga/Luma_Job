@@ -85,8 +85,10 @@ public abstract class BaseTest{
     public void openBaseUrlPW(){
         getPage().navigate(TestData.BASE_URL);
         
-        if(getPage().locator("//p[text()='Соглашаюсь']").count() != 0) {
-            getPage().locator("//p[text()='Соглашаюсь']").click();
+//        if(getPage().locator("//p[text()='Соглашаюсь']").count() != 0) {
+//            getPage().locator("//p[text()='Соглашаюсь']").click();
+        if(getPage().locator("//p[text()='Consent']").count() != 0) {
+            getPage().locator("//p[text()='Consent']").click();
         }
     }
 }
