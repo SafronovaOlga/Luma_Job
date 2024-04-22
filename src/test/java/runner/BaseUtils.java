@@ -79,7 +79,7 @@ public final class BaseUtils {
     }
 
     private static final boolean IS_HEADLESS = Boolean.parseBoolean(properties.getProperty("isHeadless").trim());
-    private static final double SLOWMO = Double.parseDouble(properties.getProperty("slowMo").trim());
+    public static final double SLOWMO = Double.parseDouble(properties.getProperty("slowMo").trim());
     private static final int SCREEN_SIZE_WIDTH = Integer.parseInt(properties.getProperty("screenWidth").trim());
     private static final int SCREEN_SIZE_HEIGHT = Integer.parseInt(properties.getProperty("screenHeight").trim());
 

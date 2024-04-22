@@ -5,13 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d4e35db-6add-451a-9b8f-bae5798f017f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/FilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selpw/VerifyDescendingSortByPricePWTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selpw/VerifyDescendingSortByPriceSeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/local.properties.TEMPLATE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NavigateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NavigateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/BaseUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/BaseUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,9 +37,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2f5istGONdCtR6GXQXsL6IEsPIg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,9 +50,115 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "TestNG.FirstTest.testSelenium.executor": "Run",
+    "TestNG.NavigateTest.testSelenium.executor": "Run",
+    "TestNG.VerifyDescendingSortByPricePWTest.testDescendingSortByPricePlayWright.executor": "Run",
+    "TestNG.VerifyDescendingSortByPriceSeleniumTest.testDescendingSortByPriceSelenium.executor": "Run",
+    "TestNG.VerifyDescendingSortByPriceTest.executor": "Run",
+    "TestNG.VerifyDescendingSortByPriceTest.testDescendingSortByPricePlayWright.executor": "Run",
+    "TestNG.VerifyDescendingSortByPriceTest.testDescendingSortByPriceSelenium.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/olgasafronova/IdeaProjects/Luma_Job_Clone/src/test/resources"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="runner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.VerifyDescendingSortByPricePWTest.testNavigationBarPW">
+    <configuration name="FirstTest.testSelenium" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Luma_Job" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="testSelenium" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NavigateTest.testSelenium" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Luma_Job" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NavigateTest" />
+      <option name="METHOD_NAME" value="testSelenium" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyDescendingSortByPricePWTest.testDescendingSortByPricePlayWright" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Luma_Job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selpw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selpw" />
+      <option name="MAIN_CLASS_NAME" value="selpw.VerifyDescendingSortByPricePWTest" />
+      <option name="METHOD_NAME" value="testDescendingSortByPricePlayWright" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyDescendingSortByPricePWTest.testNavigationBarPW" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Luma_Job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selpw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selpw" />
+      <option name="MAIN_CLASS_NAME" value="selpw.VerifyDescendingSortByPricePWTest" />
+      <option name="METHOD_NAME" value="testNavigationBarPW" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyDescendingSortByPriceSeleniumTest.testDescendingSortByPriceSelenium" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Luma_Job" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selpw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selpw" />
+      <option name="MAIN_CLASS_NAME" value="selpw.VerifyDescendingSortByPriceSeleniumTest" />
+      <option name="METHOD_NAME" value="testDescendingSortByPriceSelenium" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.VerifyDescendingSortByPricePWTest.testNavigationBarPW" />
+        <item itemvalue="TestNG.VerifyDescendingSortByPricePWTest.testDescendingSortByPricePlayWright" />
+        <item itemvalue="TestNG.VerifyDescendingSortByPriceSeleniumTest.testDescendingSortByPriceSelenium" />
+        <item itemvalue="TestNG.NavigateTest.testSelenium" />
+        <item itemvalue="TestNG.FirstTest.testSelenium" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
