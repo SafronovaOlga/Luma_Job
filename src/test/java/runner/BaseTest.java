@@ -46,7 +46,7 @@ public abstract class BaseTest{
             page.video().saveAs(Paths.get("video/" + testMethod.getName() + ".webm"));
             page.video().delete();
         } else {
-           // page.video().delete();
+            page.video().delete();
         }
 
         if (context != null) {
@@ -85,8 +85,10 @@ public abstract class BaseTest{
     public void openBaseUrlPW(){
         getPage().navigate(TestData.BASE_URL);
         
-        if(getPage().locator("//p[text()='Соглашаюсь']").count() != 0) {
-            getPage().locator("//p[text()='Соглашаюсь']").click();
+//        if(getPage().locator("//p[text()='Соглашаюсь']").count() != 0) {
+//            getPage().locator("//p[text()='Соглашаюсь']").click();
+        if(getPage().locator("//p[text()='Consent']").count() != 0) {
+            getPage().locator("//p[text()='Consent']").click();
         }
     }
 }
